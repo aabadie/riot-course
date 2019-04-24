@@ -50,13 +50,15 @@ Alexandre Abadie, Inria
 
 2. Networking with RIOT
 
+    - Networking architecture
+
     - An overview of available stacks
 
-    - GNRC: Generic Network Stack
+    - UDP communication APIs
 
-    - Practicing locally with native
+    - The CoAP protocol
 
-    - Practicing on hardware using IoT-LAB
+    - Practicing on hardware using FIT IoT-LAB
 
 ---
 
@@ -72,11 +74,11 @@ Alexandre Abadie, Inria
 
 - RIOT maintainer since 2016
 
-- FIT/IoT-LAB team member (https://www.iot-lab.info)
+- FIT IoT-LAB team member (https://www.iot-lab.info)
 
 <br/><br/>
 
-.center[<img src="images/inria_logo.png" alt="" style="width:150px;">]
+.center[<img src="inria_logo.png" alt="" style="width:150px;">]
 
 ---
 
@@ -84,7 +86,7 @@ Alexandre Abadie, Inria
 
 - ST B-L072Z-LRWAN1 LoRa discovery board
 
-  - STM32L0 microcontroller: 20kB RAM, 192kBROM
+  - STM32L0 microcontroller: 20kB RAM, 192kB ROM
 
   - A Semtech SX1276 LoRa radio transceiver, also compatible with SigFox
 
