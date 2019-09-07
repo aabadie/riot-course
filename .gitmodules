@@ -1,8 +1,0 @@
-[submodule "exercises"]
-	path = exercises
-    url = https://github.com/aabadie/riot-course-exercises
-    branch = master
-[submodule "RIOT"]
-	path = RIOT
-	url = https://github.com/RIOT-OS/RIOT
-	branch = 2019.04-branch
